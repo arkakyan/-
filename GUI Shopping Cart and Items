@@ -1,0 +1,2 @@
+Writing a back-end code for GUI shopping Cart. 
+This Program has An Item object stores information about an individual item, and A ShoppingCart object stores information about the customer's overall purchase. One field must be a collection to hold information about all the Items the customer has ordered. 
